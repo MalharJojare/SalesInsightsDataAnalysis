@@ -1,30 +1,19 @@
-<h2>Sales Insights Data Analysis Project</h2>
-<h4>AIMS Grid</h4>
+# Sales Insights Data Analysis Project - AIMS Grid
 
-  <li>
-    <ol>
-      <b>Purpose</b> - </br>
-      To unlock sales insights that are not visible before for sales team for decision support and automate them to reduced manual time spent in data gathering.
-    </ol>
-    
-    <ol>
-      <b>Stakeholders</b> - </br>
-      <li>
-        <ol>Sales Director</ol>	<ol>Marketing Team</ol>	<ol>Customer Service Team	</ol><ol>Data and Analytics team</ol><ol> IT</ol>
-      </li>
-    </ol>
-    <ol>
-      <b>Result</b> - </br>
-      An automated dashboard providing quick and latest sales insights in order to support data driven decision making.
-    </ol>
-    
-    <ol>
-      <b>Success Criteria</b> - </br>
-      <li>
-        <ol>Dashboards uncovering sales order insights with latest data available</ol>	
-        <ol>Sales team able to take better decisions and prove 10% cost savings of total spend</ol>
-        <ol>Sales analytics stop data gathering manually in order to save 20% of their business time and reinvest it value added activity.</ol>
-      </li>
-    </ol>
-  </li>
+## Purpose
+To unlock sales insights that were not visible before for the sales team, providing decision support and automating processes to reduce the manual time spent on data gathering.
 
+## Stakeholders
+1. **Sales Director**
+2. **Marketing Team**
+3. **Customer Service Team**
+4. **Data and Analytics Team**
+5. **IT Team**
+
+## Result
+An automated dashboard providing quick and up-to-date sales insights to support data-driven decision-making.
+
+## Success Criteria
+1. **Dashboards uncovering sales order insights** with the latest data available.
+2. **Sales team able to take better decisions** and demonstrate a 10% cost saving on total spend.
+3. **Sales analytics team reduces manual data gathering**, saving 20% of their business time and reinvesting it in value-added activities.
