@@ -1,6 +1,6 @@
 <h2>Sales Insights Data Analysis Project</h2>
 <h4>AIMS Grid</h4>
-<p>
+
   <li>
     <ol>
       <b>Purpose</b> - </br>
@@ -27,4 +27,4 @@
       </li>
     </ol>
   </li>
-</p>
+
